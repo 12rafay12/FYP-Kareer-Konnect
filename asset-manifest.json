@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FYP-Kareer-Konnect/static/css/main.903f6abd.css",
+    "main.js": "/FYP-Kareer-Konnect/static/js/main.63d09add.js",
+    "static/js/787.30018278.chunk.js": "/FYP-Kareer-Konnect/static/js/787.30018278.chunk.js",
+    "index.html": "/FYP-Kareer-Konnect/index.html",
+    "main.903f6abd.css.map": "/FYP-Kareer-Konnect/static/css/main.903f6abd.css.map",
+    "main.63d09add.js.map": "/FYP-Kareer-Konnect/static/js/main.63d09add.js.map",
+    "787.30018278.chunk.js.map": "/FYP-Kareer-Konnect/static/js/787.30018278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.903f6abd.css",
+    "static/js/main.63d09add.js"
+  ]
+}
